@@ -1,0 +1,38 @@
+/*   Created BY
+Name: Damith Thamara Pallawela
+Student ID: 213583827
+Email: dpallawe@deakin.edu
+Unit Code: SIT313
+Assignment: One  */
+
+body {
+	background: url(../Images/mainBackground.png);
+	background-repeat: repeat-y;
+	background-position: center center;
+	background-attachment: scroll;
+	background-size: 100% 100%;
+}
+.ui-page {
+	background: transparent;
+}
+.ui-content {
+	background: transparent;
+}
+.menushowcase {
+	padding: 0;
+	margin: 0;
+	width: 50%;
+	min-width: 250px;
+	max-height:500px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	align-content:center
+}
+
+.showcasetxt {
+	width: 90%;
+	min-width: 350px;
+	display: inline-block;
+	padding: 40px;
+}
